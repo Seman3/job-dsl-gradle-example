@@ -1,5 +1,5 @@
 String basePath = 'example8'
-String repo = 'sheehan/gradle-example'
+String repo = 'seman3/gradle-example'
 
 folder(basePath) {
     description 'This example shows how to use DSL extensions provided by other plugins.'
