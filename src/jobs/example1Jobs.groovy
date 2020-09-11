@@ -1,5 +1,5 @@
 String basePath = 'example1'
-String repo = 'seman3/job-dsl-gradle-example'
+String repo = 'sheehan/gradle-example'
 
 folder(basePath) {
     description 'This example shows basic folder/job creation.'
